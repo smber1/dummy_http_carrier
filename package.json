@@ -1,0 +1,11 @@
+{
+  "name": "dummy_http_carrier",
+  "version": "1.0.0",
+  "description": "respond 200 to POST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
